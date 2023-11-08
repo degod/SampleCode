@@ -1,4 +1,4 @@
-<p align="center"><a href="https://partner.prokip.co/" target="_blank"><img src="https://partner.prokip.co/assets/img/prokip-logo.svg" width="400"></a></p>
+<p align="center">Sample Code</p>
 
 ## About Prokip Network Partnerships
 
@@ -42,7 +42,7 @@ Knowing the Goal of this Project, We will be working on this Project in 3 phases
 
 ## Project Setup
 
-This is a regular Laravel project. After you have cloned the repository from github ([reference here](https://docs.google.com/document/d/1rb4XIk9gI0WbDMPVz4lmPWLUlOifBYyl0GWIasagFw0/edit?usp=drive_link)), proceed with the following steps:
+This is a regular Laravel project. After you have cloned the repository from github, proceed with the following steps:
 
 - Create your env file using the .env.example (replace with your local variable appropriately)
 - Run the ```composer install``` on your project directory
@@ -53,11 +53,7 @@ This is a regular Laravel project. After you have cloned the repository from git
 
 ## Project Contributing Partners
 
-- **[Godwin Sunday - Project Sponsor](godwin@prowebesolutions.com)**
-- **[Prince Bernard - Project Owner](prince.bernard@prowebesolutions.com)**
-- **[Ibibo Seleye - Project Manager](ibibo.seleye@prowebesolutions.com)**
-- **[Godwin Uche - Lead Developer](uche.godwin@prowebesolutions.com)**
-- **[Obinna John - Developer](obinna.john@prowebesolutions.com)**
+- **[Godwin Uche - Lead Developer](godwinseeyou@gmail.com)**
 
 ## Contributing
 
@@ -70,4 +66,4 @@ If you discover a security vulnerability within this project, please send an e-m
 
 ## License
 
-The Project and its source code software is licensed under the [Proweb e-Solutions](https://prowebesolutions.com).
+The Project and its source code software is licensed under NoRestriction Licensing.
